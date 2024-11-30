@@ -1,21 +1,63 @@
 
+/* HEDER */
 
 .header {}
 
+.header-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+
+.header-color-logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
 .header-nav {}
 
-.header-logo {}
+.header-nav-list {}
 
-.color-logo {}
+.header-nav-item {}
 
-.header-list {}
+.header-nav-link {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
 
-.list-item {}
+.header-contacts-list {}
 
-.list-nav {}
+.header-contacts-item {}
 
-.Contacts {}
+.header-contacts-mail {
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
 
-.list-contacts {}
-
-.list-address {}
+.header-contacts-phone {
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 150%;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
