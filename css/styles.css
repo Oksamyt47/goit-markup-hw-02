@@ -116,7 +116,9 @@ body {
 }
 /* Our team */
 
-.team {}
+.team {
+    background-color: #F4F4FD
+}
 
 .team-title {
     font-weight: 700;
@@ -128,7 +130,9 @@ body {
     text-transform: capitalize;
 }
 
-.team-list {}
+.team-list {
+    background-color: #FFFFFF
+}
 
 .team-item {}
 
@@ -152,9 +156,7 @@ body {
 
 /* section our portfolio */
 
-.portfolio {
-    background-color: #F4F4FD
-}
+.portfolio {}
 
 .portfolio-title {
         font-weight: 700;
@@ -166,9 +168,7 @@ body {
         text-transform: capitalize;
 }
 
-.portfolio-list {
-    background-color: #FFFFFF
-}
+.portfolio-list {}
 
 .potrfolio-item {}
 
