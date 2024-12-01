@@ -125,6 +125,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-list {}
@@ -151,7 +152,9 @@ body {
 
 /* section our portfolio */
 
-.portfolio {}
+.portfolio {
+    background-color: #F4F4FD
+}
 
 .portfolio-title {
         font-weight: 700;
@@ -160,9 +163,12 @@ body {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
-.portfolio-list {}
+.portfolio-list {
+    background-color: #FFFFFF
+}
 
 .potrfolio-item {}
 
